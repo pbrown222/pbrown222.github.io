@@ -1,14 +1,6 @@
-# pbrown222.github.io
-
-<!DOCTYPE html> 
-<html>
-  <head>
-    <title>Your Name - Homepage</title>
-  </head>
-  
   <body>
-    <h1>Hi, I'm Your Name!</h1>  
+    <h1>Hi, I'm Patrick!</h1>  
     
-    <p>Welcome to my website!</p> 
+    Welcome to my website! 
   </body>
 </html>
