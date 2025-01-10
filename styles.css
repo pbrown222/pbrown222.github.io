@@ -1,12 +1,12 @@
 body  {
     margin: 10px, 10px, 25px, 25px;
-    background: dodgerblue;
+    background: royalblue;
     text-align: center;
 
 }
 
 head {
     margin: 5px, 5px, 5px, 5px;
-    background: red;
+    background: orange;
     text-align: left;
 }
