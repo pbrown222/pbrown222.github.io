@@ -13,3 +13,11 @@ p  {
     font-size: 25px;
 
 }
+
+small  {
+    margin: 20px, 100px, 10px, 10px;
+    background: royalblue;
+    text-align: center;
+    font-size: 5px;
+
+}
